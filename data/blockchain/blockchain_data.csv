@@ -1,0 +1,21 @@
+description,label
+Factory C produced 575 garments on 2025-04-14 with 11 workers and standard machinery.,0
+Factory B produced 525 garments on 2025-04-12 with 20 workers and standard machinery.,0
+Factory C produced 798 garments on 2025-04-19 with 11 workers and standard machinery.,0
+"Factory D completed 618 clothing items on 2025-04-19 using 17 workers, verified by blockchain.",0
+"Production of 626 garments at Factory B on 2025-04-10 with 9 employees, all records logged.",0
+"Production of 371 garments at Factory B on 2025-04-12 with 17 employees, all records logged.",0
+"On 2025-04-13, Factory D reported 740 units of textile production with 12 staff.",0
+"On 2025-04-11, Factory B reported 437 units of textile production with 12 staff.",0
+"Production of 519 garments at Factory B on 2025-04-13 with 13 employees, all records logged.",0
+Factory B produced 756 garments on 2025-04-19 with 18 workers and standard machinery.,0
+"On 2025-04-13, Factory B reported 1412 units but lacked worker logs, possible overreporting.",1
+"Factory D stated 1273 clothing items on 2025-04-18 with 2 staff, unverified source.",1
+"Factory B stated 1015 clothing items on 2025-04-15 with 3 staff, unverified source.",1
+"Production of 926 units at Factory D on 2025-04-17, but no blockchain hash provided.",1
+"On 2025-04-12, Factory C reported 1200 units but lacked worker logs, possible overreporting.",1
+"On 2025-04-18, Factory B reported 1045 units but lacked worker logs, possible overreporting.",1
+"Factory A reported 1100 garments on 2025-04-10 with 1 workers, contradicts satellite imagery.",1
+"On 2025-04-17, Factory B reported 1368 units but lacked worker logs, possible overreporting.",1
+"On 2025-04-12, Factory C reported 1397 units but lacked worker logs, possible overreporting.",1
+"Factory C claimed 904 garments on 2025-04-19 with only 2 workers, no machinery details.",1
