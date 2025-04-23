@@ -1,6 +1,6 @@
 venv/
 *.zip
-data/S2_image/
+data/S2B_MSIL2A_*/
 data/train/
 data/blockchain/
 __pycache__/
