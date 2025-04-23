@@ -1,0 +1,9 @@
+venv/
+*.zip
+data/S2_image/
+data/train/
+data/blockchain/
+__pycache__/
+*.pyc
+data/temp/
+.env
