@@ -7,4 +7,4 @@ transformers>=4.31.0
 pandas>=2.0.3
 scikit-learn>=1.2.2
 streamlit>=1.25.0
-pillow==9.5.0
+pillow==9.4.0
